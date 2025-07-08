@@ -1,0 +1,58 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#base": {
+            "scaleInEditor": 1
+        },
+        "/home/foxi/Documentos/C/game/assets/backgrounds/1.tsx": {
+            "scaleInDock": 1
+        },
+        "PROBE2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Textures-16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "WALLS.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "base.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/foxi/Documentos/C/game/assets/backgrounds/PROBES",
+    "last.imagePath": "/home/foxi/Descargas",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "Archivos CSV (*.csv)",
+    "map.width": 60,
+    "openFiles": [
+        "base.tsx",
+        "Textures-16.tsx"
+    ],
+    "project": "sin nombre.tiled-project",
+    "recentFiles": [
+        "Textures-16.tsx",
+        "base.tsx",
+        "WALLS.tsx",
+        "PROBE2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
